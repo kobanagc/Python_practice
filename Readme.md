@@ -1,2 +1,2 @@
 ### Installed
-- Anaconda
+- [Anaconda](https://www.anaconda.com/download)
